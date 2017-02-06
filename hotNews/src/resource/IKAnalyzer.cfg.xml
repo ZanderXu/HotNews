@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>IK Analyzer 扩展配置</comment>
+    <!--用户可以在这里配置自己的扩展字典 -->
+    <entry key="ext_dict">
+        ext.dic;ext/百科书名大全.dic;ext/常用餐饮词汇.dic;ext/常用计算机技术词库.dic;ext/常用汉语人名大全.dic;ext/超市商品名称产地及药房商品名称产地.dic;ext/成语俗语【官方推荐】.dic;ext/电力词汇大全【官方推荐】.dic;ext/电子商务专用词库【官方推荐】.dic;ext/动物词汇大全【官方推荐】.dic;ext/环保词库.dic;ext/魔兽世界【官方推荐】.dic;ext/摄影大全【官方推荐】.dic;ext/淘宝专用词库【官方推荐】.dic;ext/网络流行新词【官方推荐】.dic;ext/冶金词汇大全【官方推荐】.dic;ext/医学词汇大全【官方推荐】.dic;ext/植物词汇大全【官方推荐】.dic;
+    </entry>
+
+    <!--用户可以在这里配置自己的扩展停止词字典-->
+    <entry key="ext_stopwords">stopword.dic;</entry>
+
+</properties>
